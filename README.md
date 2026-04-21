@@ -14,6 +14,24 @@
 
 ---
 
+## 🎬 Demo
+![Cognita Demo](demo.gif)
+
+*Federated learning across distributed clients*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Federated Training | ![training](screenshots/federated-training.png) |
+| Client Dashboard | ![clients](screenshots/client-dash.png) |
+| Privacy Metrics | ![privacy](screenshots/privacy.png) |
+
+## Visual Description
+Federated training shows models being trained on distributed nodes with gradient aggregation. Client dashboard displays participating devices with data distributions. Privacy metrics show differential privacy guarantees.
+
+---
+
+
 ## Table of Contents
 
 1. [Overview](#overview)
